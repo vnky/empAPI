@@ -1,0 +1,17 @@
+.content, .toolbar {
+    margin: 0 auto;
+    width: 1000px;
+}
+mat-table {
+    width: 100%;
+  }
+.mat-header-cell {
+    text-transform: capitalize;
+    font-size: 16px;
+}
+mat-header-row {
+    border:none;
+}
+.mat-elevation-z8 {
+    box-shadow: none;
+}
